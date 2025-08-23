@@ -29,11 +29,8 @@ I'm a software engineer/leader from Greater Boston with a passion for functional
 - **[angular-help-overlay](https://github.com/jordanburke/angular-help-overlay)** - Angular wrapper for chardin.js instruction overlay
 - **[ts-case-change](https://github.com/jordanburke/ts-case-change)** - Convert between camelCase and snake_case while preserving TypeScript information
 - **[git2pdf](https://github.com/jordanburke/git2pdf)** - Convert GitHub repositories into PDF files
-- **[edl](https://github.com/jordanburke/edl)** - TypeScript library for parsing and generating Edit Decision Lists (EDL) used in video editing
-- **[timecode-converter](https://github.com/jordanburke/timecode-converter)** - Comprehensive TypeScript library for SMPTE timecode conversion and manipulation
-
-### Configuration & Standards
-- **[eslint-config-functype](https://github.com/jordanburke/eslint-config-functype)** - ESLint configuration enforcing functional programming patterns in TypeScript
+- **[edl](https://github.com/isapien/edl)** - TypeScript library for parsing and generating Edit Decision Lists (EDL) used in video editing
+- **[timecode-converter](https://github.com/isapien/timecode-converter)** - Comprehensive TypeScript library for SMPTE timecode conversion and manipulation
 
 ### Scala Ecosystem
 - **[universal-rest](https://github.com/sapienapps/universal-rest)** - A simple REST library for speeding up http4s development
