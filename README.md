@@ -1,59 +1,58 @@
-# Hi there, I'm Jordan Burke 👋
+# Jordan Burke
 
-I'm a software engineer/leader from Greater Boston with a passion for functional programming, open source development, and building developer tools that make life easier.
+Software architect and builder. 25+ years shipping production systems, now focused on making AI-augmented development real and practical.
 
-## 🚀 About Me
+Co-Founder at stealth AI startup | Principal Consultant at [SapientsAI](https://github.com/sapientsai) | AI/LLM Instructor
 
-- 🔧 **Functional Programming Enthusiast** - Certified in Functional Programming Principles in Scala (Coursera)
-- 💡 **Open Source Contributor** - Actively developing and maintaining multiple projects
-- 🎯 **Focus Areas**: TypeScript, Scala, Developer Tools, Model Context Protocol (MCP) servers
+## What I Build
 
-## 🛠️ Technical Stack
+### Functional Foundations
+Type-safe, composition-first TypeScript libraries that power everything else.
 
-- **Languages**: TypeScript, Scala, Python
-- **Paradigms**: Functional Programming, Type-Safe Development
-- **Specialties**: MCP server development, Developer tooling, Web technologies
+| Project | Description |
+|---------|-------------|
+| **[functype](https://github.com/jordanburke/functype)** | Scala-inspired FP for TypeScript: Option, Either, IO, Task, Validated, pattern matching |
+| **[functype-log](https://github.com/jordanburke/functype-log)** | IO-native logging for the functype ecosystem |
+| **[functype-os](https://github.com/jordanburke/functype-os)** | Functional OS utilities (env, path, fs, platform) |
+| **[eslint-functype](https://github.com/jordanburke/eslint-functype)** | ESLint config + plugin enforcing functype patterns |
+| **[ts-builds](https://github.com/jordanburke/ts-builds)** | Standardized build tooling for TypeScript libraries |
+| **[ts-case-convert](https://github.com/jordanburke/ts-case-convert)** | Type-safe string case conversion (camelCase, snake_case) |
 
-## 📦 Featured Projects
+### MCP Protocol Layer
+21+ Model Context Protocol servers connecting AI agents to real-world services.
 
-### Functional Programming & Libraries
-- **[functype](https://github.com/jordanburke/functype)** - A Functional Library for TypeScript based on Scala, providing Option, Either, List, LazyList, Task, and pattern matching capabilities
+| Project | Connects AI to... |
+|---------|-------------------|
+| **[reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server)** | Reddit (posts, comments, search, engagement) |
+| **[joplin-mcp-server](https://github.com/jordanburke/joplin-mcp-server)** | Joplin note-taking (CRUD, search, notebooks) |
+| **[microsoft-todo-mcp-server](https://github.com/jordanburke/microsoft-todo-mcp-server)** | Microsoft To Do task management |
+| **[mcp-proxy](https://github.com/jordanburke/mcp-proxy)** | HTTP/SSE proxy for stdio MCP servers |
+| **[agent-todo](https://github.com/sapienapps/agent-todo)** | Multi-provider task management agent |
 
-### MCP (Model Context Protocol) Servers
-- **[reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server)** - MCP server for Reddit integration with pnpm and tsup build system
-- **[kuzudb-mcp-server](https://github.com/jordanburke/kuzudb-mcp-server)** - Enhanced Kuzu database MCP server with connection recovery and multi-agent coordination
-- **[microsoft-todo-mcp-server](https://github.com/jordanburke/microsoft-todo-mcp-server)** - MCP server for Microsoft Todo integration
-- **[joplin-mcp-server](https://github.com/jordanburke/joplin-mcp-server)** - MCP server for Joplin note-taking application
+**Life Sciences MCP Servers** (via [SapientsAI](https://github.com/sapientsai)):
 
-### Developer Tools
-- **[angular-help-overlay](https://github.com/jordanburke/angular-help-overlay)** - Angular wrapper for chardin.js instruction overlay
-- **[ts-case-change](https://github.com/jordanburke/ts-case-change)** - Convert between camelCase and snake_case while preserving TypeScript information
-- **[git2pdf](https://github.com/jordanburke/git2pdf)** - Convert GitHub repositories into PDF files
-- **[edl](https://github.com/isapien/edl)** - TypeScript library for parsing and generating Edit Decision Lists (EDL) used in video editing
-- **[timecode-converter](https://github.com/isapien/timecode-converter)** - Comprehensive TypeScript library for SMPTE timecode conversion and manipulation
+| Project | Domain |
+|---------|--------|
+| **[ms-365-mcp-server](https://github.com/sapientsai/ms-365-mcp-server)** | Microsoft 365 suite (58 tools, 12 domains) |
+| **[dokploy-mcp-server](https://github.com/sapientsai/dokploy-mcp-server)** | Dokploy PaaS deployment management |
+| **[somamcp](https://github.com/sapientsai/somamcp)** | Soma life sciences data |
+| **[biomcp](https://github.com/sapientsai/biomcp)** | Biomedical research databases |
+| **[openfda-mcp-server](https://github.com/sapientsai/openfda-mcp-server)** | FDA drug, device, and recall data |
+| **[patents-mcp-server](https://github.com/sapientsai/patents-mcp-server)** | USPTO patent search and analysis |
+| **[edgartools](https://github.com/sapientsai/edgartools)** | SEC EDGAR financial filings |
 
-### Scala Ecosystem
-- **[universal-rest](https://github.com/sapienapps/universal-rest)** - A simple REST library for speeding up http4s development
-- **[scala-slack-client](https://github.com/sapienapps/scala-slack-client)** - A minimalist Slack Scala Client
-- **[hocon-template](https://github.com/sapienapps/hocon-template)** - HOCON config files as templates
+### Utilities
 
-## 📊 GitHub Stats
+| Project | Description |
+|---------|-------------|
+| **[edl](https://github.com/jordanburke/edl)** | Parse and generate Edit Decision Lists for video editing |
+| **[timecode-converter](https://github.com/jordanburke/timecode-converter)** | SMPTE timecode conversion and manipulation |
+| **[envpkt](https://github.com/jordanburke/envpkt)** | Environment variable packaging tool |
 
-- 📚 **50+ Repositories** spanning various technologies and domains
-- 🔄 **Active Development** - Most repositories updated in 2025
-- 🤝 **Community Contributions** - Multiple forked and enhanced projects
+## Technical Focus
 
-## 🌟 What I'm Working On
+**Languages**: TypeScript, Scala, Python | **Paradigm**: Functional programming, type-safe composition | **Architecture**: Distributed systems, MCP servers, AI agent ecosystems
 
-Currently focused on:
-- Expanding the functype library with more functional programming utilities
-- Building and improving MCP servers for various services
-- Creating developer tools that enhance productivity
-- Contributing to the open source community
+## Connect
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jordanhburke/)
-- 🐙 [GitHub](https://github.com/jordanburke)
-
----
+[LinkedIn](https://www.linkedin.com/in/jordanhburke/) | [GitHub](https://github.com/jordanburke) | [SapientsAI](https://github.com/sapientsai)
