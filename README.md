@@ -41,9 +41,7 @@ An extensive portfolio of Model Context Protocol servers connecting AI agents to
 | Project | Domain |
 |---------|--------|
 | **[somamcp](https://github.com/sapientsai/somamcp)** | Soma life sciences data |
-| **[biomcp](https://github.com/sapientsai/biomcp)** | Biomedical research databases |
 | **[openfda-mcp-server](https://github.com/sapientsai/openfda-mcp-server)** | FDA drug, device, and recall data |
-| **[NCCN_guidelines_MCP](https://github.com/sapientsai/NCCN_guidelines_MCP)** | NCCN oncology clinical guidelines |
 | **[ncats-translator-mcp](https://github.com/sapientsai/ncats-translator-mcp)** | NCATS biomedical knowledge translator |
 
 *Business, Legal & Productivity:*
